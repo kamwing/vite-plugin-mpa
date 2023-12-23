@@ -70,3 +70,5 @@ export default function mpa(userOptions: UserOptions = {}): Plugin {
 }
 
 export type { UserOptions as MpaOptions }
+
+export { mpa }
